@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome. Glad to have you here 👋
 
 <!--
 **StephenOlusanya/StephenOlusanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
